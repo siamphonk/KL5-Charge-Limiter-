@@ -69,7 +69,7 @@ Battery: 78%
        ↓
 Charging ON ⚡
 
-##🔔 Notifications
+## 🔔 Notifications
 The Helper APK provides user notifications for charging state changes.
 Supported modes:
 toast — Toast only
@@ -77,7 +77,7 @@ notification — System notification only
 both — Toast + notification
 The current release uses: both (will update in future release)
 
-##📦 Installation
+## 📦 Installation
 Requirements
 🔓 Unlocked bootloader
 👑 Root access
