@@ -1,7 +1,3 @@
-```markdown
-> 🔋 **Keep your battery healthier with automatic charging control.**
->
-> Stop at **80%** → Resume at **78%** → Simple. Lightweight. Automatic.
 # 🔋 KL5 Charge Limit
 
 A simple and lightweight charging limiter module for the **TECNO Spark 30C (KL5)**.
