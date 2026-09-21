@@ -70,26 +70,49 @@ Battery: 78%
 Charging ON ⚡
 
 ## 🔔 Notifications
+
 The Helper APK provides user notifications for charging state changes.
-Supported modes:
-toast — Toast only
-notification — System notification only
-both — Toast + notification
-The current release uses: both (will update in future release)
+
+### Supported Modes
+
+| Mode | Description |
+|---|---|
+| `toast` | Toast only |
+| `notification` | System notification only |
+| `both` | Toast + Notification |
+
+> **Current release:** `both`  
+> 💡 Notification mode selection will be added in a future release.
+
+---
 
 ## 📦 Installation
-Requirements
-🔓 Unlocked bootloader
-👑 Root access
-KernelSU or compatible root environment
-TECNO Spark 30C (KL5)
-Steps
-Download the latest module ZIP from Releases.
-Open KernelSU Manager.
-Go to Modules.
-Choose Install from storage.
-Select the KL5 Charge Limit ZIP.
-Reboot the device.
-The Helper APK will be installed automatically during module installation.
-🗑️ Uninstallation
-Simply remove the module from your root manager and reboot.
+
+### Requirements
+
+- 🔓 Unlocked bootloader
+- 👑 Root access
+- 🛠️ KernelSU or compatible root environment
+- 📱 TECNO Spark 30C (KL5)
+
+### Steps
+
+1. Download the latest module ZIP from **[Releases](../../releases)**.
+2. Open **KernelSU Manager**.
+3. Go to **Modules**.
+4. Select **Install from storage**.
+5. Select the **KL5 Charge Limit** ZIP.
+6. Reboot your device.
+
+> 📱 The Helper APK will be installed automatically during module installation.
+
+---
+
+## 🗑️ Uninstallation
+
+1. Open your root manager.
+2. Go to **Modules**.
+3. Remove **KL5 Charge Limit**.
+4. Reboot your device.
+
+That's it. ✅
