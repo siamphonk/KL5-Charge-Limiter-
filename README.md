@@ -68,3 +68,28 @@ Battery slowly drops
 Battery: 78%
        ↓
 Charging ON ⚡
+
+##🔔 Notifications
+The Helper APK provides user notifications for charging state changes.
+Supported modes:
+toast — Toast only
+notification — System notification only
+both — Toast + notification
+The current release uses: both (will update in future release)
+
+##📦 Installation
+Requirements
+🔓 Unlocked bootloader
+👑 Root access
+KernelSU or compatible root environment
+TECNO Spark 30C (KL5)
+Steps
+Download the latest module ZIP from Releases.
+Open KernelSU Manager.
+Go to Modules.
+Choose Install from storage.
+Select the KL5 Charge Limit ZIP.
+Reboot the device.
+The Helper APK will be installed automatically during module installation.
+🗑️ Uninstallation
+Simply remove the module from your root manager and reboot.
