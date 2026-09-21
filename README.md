@@ -97,12 +97,11 @@ The Helper APK provides user notifications for charging state changes.
 
 ### Steps
 
-1. Download the latest module ZIP from **[Releases](../../releases)**.
-2. Open **KernelSU Manager**.
-3. Go to **Modules**.
-4. Select **Install from storage**.
-5. Select the **KL5 Charge Limit** ZIP.
-6. Reboot your device.
+1. Open **Root Manager**.
+2. Go to **Modules**.
+3. Select **Install from storage**.
+4. Select the **KL5 Charge Limit** ZIP.
+5. Reboot your device.
 
 > 📱 The Helper APK will be installed automatically during module installation.
 
